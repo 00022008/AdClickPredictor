@@ -7,5 +7,5 @@ The following is the result of the project:
            1       0.94      0.90      0.92       143
 
     accuracy                           0.93       300
-   macro avg       0.93      0.93      0.93       300
-weighted avg       0.93      0.93      0.93       300
+    macro avg      0.93      0.93      0.93       300
+    weighted avg   0.93      0.93      0.93       300
