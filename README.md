@@ -1,4 +1,4 @@
-#This project is about detecting whether a website visitor clicked on the Ad or not. To find this, i used a Logistic Regression.
+This project is about detecting whether a website visitor clicked on the Ad or not. To find this, i used a Logistic Regression.
 The following is the result of the project:
 
 0 --> The class representing that group of ads that were not clicked.
